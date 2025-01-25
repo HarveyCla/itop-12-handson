@@ -1,6 +1,6 @@
 # Ortak çalışma
 ## harvey
-### ortak çalışma
+### ortak
 MorpheusByte
 [Google a git](https://www.google.com)
 
