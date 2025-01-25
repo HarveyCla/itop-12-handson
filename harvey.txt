@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 omer start
-=======
-harvey
->>>>>>> 3d26c0d397d0588865cc97d823a86d2d2b563ab9
